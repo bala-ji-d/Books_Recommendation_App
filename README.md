@@ -8,7 +8,7 @@
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](https://book-recommendation45.herokuapp.com/)
+* [Click here to run it live on server](https://book-recomendation.streamlit.app/)
 
 
 # Demo:
@@ -77,7 +77,6 @@ streamlit run app.py
 
 ```bash
 Author: Balaji D
-Data Scientist
 Email: balajidseekr19@gmail.com
 
 ```
