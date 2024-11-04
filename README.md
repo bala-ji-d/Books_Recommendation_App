@@ -1,6 +1,5 @@
 # Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
 
 
 # About this project:
@@ -9,15 +8,6 @@ This is a streamlit web application that can recommend various kinds of similar 
 here is a demo,
 
 * [Click here to run it live on server](https://book-recomendation.streamlit.app/)
-
-
-# Demo:
-
-<img src="demo/1.png" alt="workflow" width="70%">
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
